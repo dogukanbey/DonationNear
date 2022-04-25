@@ -41,14 +41,11 @@ It uses the following setup:
   _Owner scripts_
   ```sh
   1.dev-deploy.sh         # cleanup, compile and deploy contract
-  o-report.sh             # generate a summary report of the contract state
-  o-transfer.sh           # transfer received funds to the owner account
   ```
 
   _Public scripts_
   ```sh
   2.use-contract.sh         # get donations list, make donation to foundation 
-  
   ```
 ### Terminal **B**
 
