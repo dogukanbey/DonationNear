@@ -41,11 +41,12 @@ It uses the following setup:
   _Owner scripts_
   ```sh
   1.dev-deploy.sh         # cleanup, compile and deploy contract
+  2.dev-cleanup.sh        # delete build and deploy artifacts
   ```
 
   _Public scripts_
   ```sh
-  2.use-contract.sh         # get donations list, make donation to foundation 
+  1.use-contract.sh         # get donations list, make donation to foundation 
   ```
 ### Terminal **B**
 
